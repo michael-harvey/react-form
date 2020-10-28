@@ -1,0 +1,12 @@
+{
+    "schema": {
+        "firstName": {
+            "type": "string",
+            "label": "First name"
+        },
+        "lastName": {
+            "type": "string",
+            "label": "First name"
+        }
+    }
+}
